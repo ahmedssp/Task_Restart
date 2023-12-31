@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/front/OneDrive/Desktop/githupcource/restassured-complete-basic-example/Task_Restart/src/test/java/ApiTest/ActivityApiTest.java">
+        <classes>
+            <class name="ApiTest.ActivityApiTest">
+                <methods>
+                    <include name="Get_request"/>
+                    <include name="TestPostActivitiesEndpoint"/>
+                    <include name="TestApiPathParameterActivitiesEndpoint"/>
+                    <include name="TestPutActivitiesEndpoint"/>
+                    <include name="TestDeletActivitiesEndpoint"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
