@@ -13,9 +13,7 @@ Automate app website using the following dependencies:
 
 - Selenium maven
 "https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java".
-- Cucumber for Java
-"https://mvnrepository.com/artifact/io.cucumber/cucumber-java".
-- Cucumber TestNG maven
+-  TestNG maven
 "https://mvnrepository.com/artifact/io.cucumber/cucumber-testng" .
 - Web Driver Manager
 "https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/5.3.2" .
